@@ -2,6 +2,6 @@
 
 Download it and Run
   
-open cmd and type :
-pip install requests
-then run the python file and Enjoy!!
+open cmd and type :<br>
+pip install requests<br>
+then run the python file and Enjoy!!<br>
